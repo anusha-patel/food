@@ -209,7 +209,7 @@ section{
 .about .image{
     flex: 1 1 40rem;
     height: 50rem;
-    background: url(/food/images/4.avif);
+    background: url(images/4.avif);
     background-size: cover;
     background-position: center;
     /* background-blend-mode: screen; */
